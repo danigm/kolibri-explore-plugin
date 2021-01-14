@@ -5,3 +5,10 @@ kolibri_explore_plugin/__pycache__
 build/*
 dist/*
 kolibri_explore_plugin.egg-info/*
+
+# virtual environment
+venv/
+.python-version
+.envrc
+.env
+Pipfile
